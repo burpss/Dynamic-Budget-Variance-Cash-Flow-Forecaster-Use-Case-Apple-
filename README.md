@@ -19,6 +19,6 @@ This repository contains a fully integrated, dynamic 3-statement financial model
 * Financial Data Visualization 
 
 ## How to Use This Model
-1. Download the [Dynamic Budget Variance & Cash Flow Forecaster.xlsx](Dynamic%20Budget%20Variance%20%&%20Cash%20Flow%20Forecaster.xlsx) file.
+1. Download the [Dynamic Budget Variance & Cash Flow Forecaster.xlsx](Dynamic%20Budget%20Variance%20%26%20Cash%20Flow%20Forecaster.xlsx) file.
 2. Open the **Executive Summary** tab.
 3. Change the **Active Scenario** toggle (1 = Base, 2 = Bull, 3 = Bear) to watch the charts, revenues, and bottom-line margins automatically recalculate across the entire ecosystem.
